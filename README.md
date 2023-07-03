@@ -1,7 +1,7 @@
 ### It's me, hi! I'm Raquel 👋
 
 - 🎓 Graduated in Telecommunications Engineering from UPC (soon) and starting my MSc in Data Science!</h3>
-- 🔭 I’m currently working on the TU Wien Computer Vision Lab
+- 🔭 I’m currently working at TU Wien Computer Vision Lab
 - 💬 Research interests involve Machine Learning, Deep Learning, Computer Vision, NLP, etc.
 - ❤️ My hobbies: football ⚽, dance 💃 and cooking 👩‍🍳
 - 😄 Pronouns: she/her
