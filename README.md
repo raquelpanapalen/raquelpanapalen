@@ -1,6 +1,6 @@
 ### It's me, hi! I'm Raquel 👋
 
-- 🎓 Graduated in Telecommunications Engineering from UPC (Barcelona, Spain) and starting my MSc in Data Science at TU Wien (Vienna, Austria)</h3>
+- 🎓 Graduated in Telecommunications Engineering from UPC (Barcelona, Spain) and studying a MSc in Data Science at TU Wien (Vienna, Austria)</h3>
 - 🔭 I’m currently working at TU Wien Computer Vision Lab
 - 💬 Research interests involve Machine Learning, Deep Learning, Computer Vision, NLP, etc.
 - ❤️ My hobbies: football ⚽, dance 💃 and cooking 👩‍🍳
