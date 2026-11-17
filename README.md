@@ -1,7 +1,7 @@
 ### It's me, hi! I'm Raquel 👋
 
 - 🎓 Dipl.Ing. MSc in Data Science and Machine Learning at TU Wien (Vienna, Austria) / BSc in Telecommunications Engineering at UPC (Barcelona, Spain)
-- 🔭 AI Engineer at Big Blue Marble
+- 🔭 Senior AI Engineer at SmartStream
 - 💬 Research interests involve Machine Learning, Deep Learning, Computer Vision, NLP, etc.
 - ❤️ My hobbies: football ⚽, dance 💃 and cooking 👩‍🍳
 - 😄 Pronouns: she/her
