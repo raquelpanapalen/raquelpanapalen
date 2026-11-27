@@ -3,8 +3,6 @@
 - 🔭 Senior AI Engineer at SmartStream
 - 🎓 Dipl.Ing. MSc in Data Science and Machine Learning at TU Wien (Vienna, Austria) / BSc in Telecommunications Engineering at UPC (Barcelona, Spain)
 - 💬 I work on Agentic AI, LLMs and VLMs, with a background in Machine Learning, Deep Learning, Computer Vision and NLP
-- 📄 Paper at WACV 2025: *Importance-Guided Interpretability and Pruning for Video Transformers in Driver Action Recognition*
-- ❤️ My hobbies: football ⚽, dance 💃 and cooking 👩‍🍳
 - 😄 Pronouns: she/her
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/raquel-panadero-palenzuela)
   
